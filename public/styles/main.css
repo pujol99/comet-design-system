@@ -1,0 +1,54 @@
+html,
+body {
+  background-color: #131628;
+  color: white;
+  overflow-y: hidden;
+}
+
+h1::first-letter,
+h2::first-letter,
+h3::first-letter,
+h4::first-letter,
+h5::first-letter,
+h6::first-letter {
+  text-transform: uppercase;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+i {
+  color: #84bcee;
+}
+
+p {
+  line-height: 1.6;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+b {
+  letter-spacing: -0.5px;
+}
+
+.material-symbols-rounded {
+  font-variation-settings: "FILL" 1, "wght" 300, "GRAD" 0, "opsz" 40;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+.material-symbols-rounded__big {
+  font-size: 30px;
+}
+
+.material-symbols-rounded {
+  cursor: pointer;
+}
