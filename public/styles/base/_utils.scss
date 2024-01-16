@@ -1,0 +1,61 @@
+.hide {
+    display: none !important;
+}
+
+.material-symbols-rounded {
+    cursor: pointer;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.fsb {
+    justify-content: space-between;
+}
+
+.fac {
+    align-items: center;
+}
+
+.gap-md {
+    gap: 16px;
+}
+
+.gap-lg {
+    gap: 32px;
+}
+
+.mb-md {
+    margin-bottom: 12px;
+}
+
+.mt-lg {
+    margin-top: 24px;
+}
+
+.alg-r {
+    text-align: right;
+}
+
+.alg-l {
+    text-align: left;
+}
+
+.alg-c {
+    text-align: center;
+}
+
+.rel {
+    position: relative;
+}

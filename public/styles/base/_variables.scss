@@ -1,0 +1,56 @@
+// Fonts
+$font-body: "Rubik";
+$font-money: "Special Elite", cursive;
+$font-title: "DM Serif Display", cursive;
+
+$fontXS: 12px;
+$fontS: 14px;
+$fontM: 16px;
+$fontL: 18px;
+$fontXL: 22px;
+$fontXXL: 32px;
+
+$fontLight: 300;
+$fontRegular: 400;
+$fontBold: 700;
+
+// Layout
+$page-width: calc(min(700px, 90%));
+$popup-width: calc(min(800px, 90%));
+$calendar-width: calc(min(600px, 100%));
+$popup-items-height: 150px;
+$months-height: 350px;
+$month-height: 150px;
+$page-top-margin: 5em;
+$mobile-width: 600px;
+$bar-width: 250px;
+
+// Colors
+$green: rgb(101, 221, 101);
+$lightGreen: rgb(128, 211, 128);
+$red: #d85454;
+$reload: rgb(39, 57, 216);
+$white: rgb(241, 241, 241);
+$black: rgb(20, 20, 20);
+$gray: rgb(63, 62, 62);
+$lightGray: rgb(93, 92, 92);
+$superLightGray: #f2f2f2;
+$transparent: rgba(0, 0, 0, 0);
+
+// Spaces
+$marginXXS: 2px;
+$marginXS: 4px;
+$marginS: 8px;
+$marginM: 12px;
+$marginL: 16px;
+$marginXL: 20px;
+$marginXXL: 32px;
+
+$radiusS: 2px;
+$radiusM: 4px;
+$radiusL: 8px;
+
+:root {
+    --blur: 0px;
+    --bar-width: 250px;
+}
